@@ -134,5 +134,6 @@ tok.decode(out.tolist()[0])
 ```
 
 ## Reference
-- https://github.com/google-research/text-to-text-transfer-transformer
-- https://github.com/huggingface/transformers
+- [T5 Official Code](https://github.com/google-research/text-to-text-transfer-transformer)
+- [Huggingface Transformers](https://github.com/huggingface/transformers)
+- [KoBART](https://github.com/SKT-AI/KoBART)
