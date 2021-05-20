@@ -119,7 +119,7 @@ tok.decode(out.tolist()[0])
 
 |NSMC|KorNLI|Question Pair|NIKL CoLA|NIKL Parapharase|
 |---|---|---|---|---|
-|88.8|---|---|---|---|
+|88.0|77.1|93.3|52.5|55.4|
 
 ## Citation
 ```
